@@ -2,6 +2,4 @@
 
 Для проверки захвата открыт сетевой интерфейс и просмотрены полученные кадры. Пример показывает multicast DNS: в списке видны отправитель, адрес группы и протокол, а ниже — разобранные уровни Ethernet, IPv4 и UDP.
 
-![Пример захвата mDNS-трафика](assets/screenshots/01-ethernet-capture.png)
-
-Вторая копия того же снимка сохранена отдельно: [открыть файл](assets/screenshots/02-ethernet-capture-copy.png).
+![Пример захвата mDNS-трафика](assets/screenshots/01-ethernet-capture.png).
